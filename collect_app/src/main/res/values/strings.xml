@@ -68,8 +68,8 @@
 <string name="do_not_save">Ignore Changes</string>
 <string name="entering_repeat">Add Group</string>
 <string name="entering_repeat_ask">Add New Group?</string>
-<string name="enter_data">Fill Blank Form</string>
-<string name="enter_data_button">Fill Blank Form</string>
+<string name="enter_data">Popuni novu formu</string>
+<string name="enter_data_button">Popuni novu formu</string>
 <string name="error_occured">Error Occurred</string>
 <string name="error_attaching_binary_file">An error occurred while attaching the media: %s</string>
 <string name="fetching_file">Getting %1$s.\n\nForm %2$s of %3$s form(s).</string>
@@ -82,7 +82,7 @@
 <string name="forms">Blank Forms</string>
 <string name="getting_location">Loading Location</string>
 <string name="get_barcode">Get Barcode</string>
-<string name="get_forms">Get Blank Form</string>
+<string name="get_forms">Preuzmi nove forme</string>
 <string name="get_location">Record Location</string>
 <string name="provider_disabled_error">Sorry, Location providers are disabled!</string>
 <string name="invalid_answer_error">Sorry, this response is invalid!</string>
