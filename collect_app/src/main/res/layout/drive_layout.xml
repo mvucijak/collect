@@ -32,26 +32,32 @@ the License.
                 android:text="@string/go_back"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:padding="12dp"
-                android:textSize="16sp"
-                android:layout_weight="1"/>
+            android:textSize="16sp"
+                android:layout_weight="1"
+            android:background="@android:color/holo_red_dark"
+            android:layout_margin="5dp"
+            android:textColor="@android:color/white" />
         <Button
                 android:id="@+id/download_button"
                 android:text="@string/download_selected"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:padding="12dp"
-                android:textSize="16sp"
+            android:textSize="16sp"
                 android:layout_weight="1"
-                android:enabled="false"/>
+                android:enabled="false"
+            android:background="@android:color/holo_red_dark"
+            android:textColor="@android:color/white"
+            android:layout_margin="5dp" />
         <Button
                 android:id="@+id/root_button"
                 android:text="@string/go_shared"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:padding="12dp"
-                android:textSize="16sp"
-                android:layout_weight="1"/>
+            android:textSize="16sp"
+                android:layout_weight="1"
+            android:layout_margin="5dp"
+            android:background="@android:color/holo_red_dark"
+            android:textColor="@android:color/white" />
 
     </LinearLayout>
 

@@ -19,4 +19,5 @@ the License.
     <drawable name="white">#ffffffff</drawable>
     <drawable name="black">#ff000000</drawable>
 
+    <color name="CK_Red">#e50000</color>
 </resources>
