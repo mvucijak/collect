@@ -70,7 +70,7 @@
 <string name="forms">Prazne forme</string>
 <string name="getting_location">U&#269;itavanje lokacije</string>
 <string name="get_barcode">Uzmi barkod</string>
-<string name="get_forms" />
+<string name="get_forms">Skini forme</string>
 <string name="get_location">Snimi lokaciju</string>
 <string name="provider_disabled_error">Provajderi kolacije su onemogu&#263;eni.</string>
 <string name="invalid_answer_error">Ovaj odgovor nije odgovaraju&#263;i</string>
