@@ -137,7 +137,7 @@
     <string name="ext_search_wrong_arguments_error">Greška u sintaksi funkcije za pretragu. Funkciji je potrebno 1, 4 ili 6 argumenata.</string>
     <string name="ext_search_wrong_function_error">Greška u sintaksi funkcije za pretragu: Funkcija \'%s\' nije prepoznata.</string>
     <string name="ext_sortBy_numeric_error">Kolona za sortiranje bi trebalo da sadrži samo brojne vrednosti. Neispravna vrednost u pitanju je \'%s\'.</string>
-    <string name="fetching_file">Skidanje %1%s. Forma %2$s od %3$s form/i.</string>
+    <string name="fetching_file">Skidanje %1$s. Forma %2$s od %3$s formi.</string>
     <string name="fetching_manifest">%s. Skidanje manifesta</string>
     <string name="file_delete_in_progress">Brisanje jedne forme je već u toku!</string>
     <string name="file_deleted_error">Nije uspelo brisanje %1$s od %2$s izabranih formi!</string>

@@ -60,7 +60,7 @@
 <string name="enter_data_button">Popuni novu formu</string>
 <string name="error_occured">Do&#353;lo je do gre&#353;ke</string>
 <string name="error_attaching_binary_file">Do&#353;lo je do gre&#353;ke pri dodavanju medija: %s</string>
-<string name="fetching_file">Skidanje %1%s. Forma %2$s od %3$s form/i.</string>
+<string name="fetching_file">Skidanje %1$s. Forma %2$s od %3$s form/i.</string>
 <string name="file_deleted_error">Nije uspelo brisanje %1$s od %2$s izabranih formi!</string>
 <string name="file_deleted_ok">Uspe&#353;no obrisana/o %s forma/i!</string>
 <string name="file_delete_in_progress">Brisanje jedne forme je ve&#263; u toku!</string>
